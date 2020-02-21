@@ -52,6 +52,12 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
+# Include all files in Plugins
+!/[Aa]ssets/[Pp]lugins/**/*.mdb
+!/[Aa]ssets/[Pp]lugins/**/*.pdb
+!/[Aa]ssets/[Pp]lugins/**/*.mdb.meta
+!/[Aa]ssets/[Pp]lugins/**/*.pdb.meta
+
 # Unity3D generated file on crash reports
 sysinfo.txt
 
